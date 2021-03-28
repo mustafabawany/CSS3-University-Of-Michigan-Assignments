@@ -1,0 +1,29 @@
+body {
+	font-size: 120%;
+}
+
+header {
+	background-color: #80808091;
+}
+
+a {
+	background-color: #80808075;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+}
+
+section {
+	color: black;
+	background-color: grey;
+}
+
+section h2 {
+	text-transform: uppercase;
+	color: #0808b1;
+	background: grey;
+}
